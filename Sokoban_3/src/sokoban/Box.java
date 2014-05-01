@@ -28,5 +28,6 @@ public class Box extends Figure {
 		// TODO Auto-generated method stub
 		
 	}
+	
 
 }
