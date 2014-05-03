@@ -48,5 +48,6 @@ public class Board extends Figure{
 		figureList.add(playerFigure);
 		playerFigure.paint(g);
 		//I try to simulate that generate 5 empty fields
+		
 	}
 }
